@@ -33,6 +33,16 @@ Questions have been designed to be completed in the given sequence.
     ```
     </details>
 4. Create a new file in `git-workshop` directory called `session1-exercise2`. Commit the file with a detailed description about the change.
+    <details>
+    <summary>Solution</summary>
+
+    ```bash
+  touch session1-exercise2
+  git add session1-exercise2
+  git commit -m "create session1-exercise2 file"
+    ```
+    </details>
+
 5. Run commands to check the status and history of the repository.
 6. Add a gitignore file to not track any log files ending with `.log` in the repository.
 7. Add 3 more new files called `session1-file1`, `session1-file2`, `session1-file3`. Commit each of the above file as a separate commit.
