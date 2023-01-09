@@ -25,6 +25,13 @@ Questions have been designed to be completed in the given sequence.
     </details>
 
 3. Rename the branch name from `master` to `main`.
+    <details>
+    <summary>Solution</summary>
+
+    ```bash
+    git branch -m master main
+    ```
+    </details>
 4. Create a new file in `git-workshop` directory called `session1-exercise2`. Commit the file with a detailed description about the change.
 5. Run commands to check the status and history of the repository.
 6. Add a gitignore file to not track any log files ending with `.log` in the repository.
