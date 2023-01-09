@@ -16,6 +16,14 @@ Questions have been designed to be completed in the given sequence.
     </details>
 
 2. Investigate the status of the repository and the branch you are currently on.
+    <details>
+    <summary>Solution</summary>
+
+    ```bash
+    git status
+    ```
+    </details>
+
 3. Rename the branch name from `master` to `main`.
 4. Create a new file in `git-workshop` directory called `session1-exercise2`. Commit the file with a detailed description about the change.
 5. Run commands to check the status and history of the repository.
