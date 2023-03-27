@@ -89,6 +89,7 @@ The Myth of the Nice Girl by Fran Hauser
 <td>
 In The Myth of The Nice Girl, Fran Hauser deconstructs the negative perception of "niceness" that many women struggle with in the business world. If women are nice, they are seen as weak and ineffective, but if they are tough, they are labeled a b*tch.                                                   
 <td>
+   <p>Read our blog by <a href="https://www.womenwhocode.com/blog/london-book-club-the-myth-of-the-nice-girl">Irina Kamalova</a><p>
 <tr>
 
 <tr>
