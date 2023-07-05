@@ -30,7 +30,7 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
 <tbody>
 
 <tr>
-  <th>session</th> <th>speaker(s)</th>
+  <th>session</th> <th>description</th> <th>speaker(s)</th>
 </tr>
 
 <tr>
@@ -38,6 +38,11 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
 
   [Mentorship Program Launch & Panel Discussion](https://www.youtube.com/watch?v=VxF2Br-mZTU&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=6)</th>
 
+<td> 
+Mentorship: How to start? Practical Tips from experienced mentors:
+
+We, at Women Who Code, choose to challenge the fact that women are less likely to have a sponsor who advocates and opens doors for them (source: https://leanin.org/mentor-her). One of the ways to solve this is to provide a platform for people to connect based on professional merits.
+</td>
   <td>
 
   ✪ [Jamica Ortiz](https://www.linkedin.com/in/jortizbr/)
@@ -57,6 +62,9 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
 
   [Mentorship: Start of the Programme 2.0 & Panel Discussion](https://www.youtube.com/watch?v=x2PJ0v_lAlM&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=27)</th>
 
+<td>
+Panel discussion "Mentorship: How to start? Practical Tips from experienced mentors" and Q&A
+</td>
   <td>
 
   ✪ [Vanessa Yiu](https://www.linkedin.com/in/vanessa-yiu-12a1375/)
@@ -77,7 +85,7 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
   <th align="left">
 
   [Start of the Mentorship Programme 3.0 & Panel Discussion](https://www.youtube.com/watch?v=mznVrMbcFxk&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=40)</th>
-
+<td> </td>
   <td>
 
   ✪ [Eleonora Belova](https://www.linkedin.com/in/eleonora-belova-7069baa5/)
@@ -98,6 +106,11 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
   <th align="left">
 
   [Mentorship Programme 4.0 & Panel Discussion](https://www.youtube.com/watch?v=AuDyfjDr9rA&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=8)</th>
+
+<td> 
+The Panel Discussion “What makes a good mentor?” was centred around essential topics such as effective communication, establishing clear expectations, providing guidance and delivering constructive feedback. The panelists, experienced mentors and experts in their fields, shared their insights on the role of mentorship, uncovering the challenges and opportunities that come with this impactful relationship. The audience actively participated in the discussion, raising thought-provoking questions and engaging in meaningful conversations.
+This event could be particularly beneficial for both first-time mentors seeking guidance to embark on their mentoring journey and experienced mentors looking to refine their approaches.
+</td>
 
   <td>
 
