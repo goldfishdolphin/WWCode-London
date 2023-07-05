@@ -94,5 +94,24 @@ See all details about the program in [https://womenwhocode.github.io/london](htt
   </td>
 </tr>
 
+<tr>
+  <th align="left">
+
+  [Mentorship Programme 4.0 & Panel Discussion](https://www.youtube.com/watch?v=AuDyfjDr9rA&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=8)</th>
+
+  <td>
+
+  ✪ [Eleonora Belova](https://www.linkedin.com/in/eleonora-belova-7069baa5/)
+
+  ✪ [Andrew King](https://www.linkedin.com/in/andrewkingit/)
+
+  ✪ [Ana Nogal](https://www.linkedin.com/in/ananogal/)
+
+  ✪ [Aishwarya Nair](https://www.linkedin.com/in/aishwarya-nair-data-scientist/)
+
+  ✪ [Adriana Zenck Zimmermann](https://www.linkedin.com/in/dricazenck/)
+  </td>
+</tr>
+
 </tbody>
 </table>
