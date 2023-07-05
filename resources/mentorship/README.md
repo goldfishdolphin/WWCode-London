@@ -85,7 +85,11 @@ Panel discussion "Mentorship: How to start? Practical Tips from experienced ment
   <th align="left">
 
   [Start of the Mentorship Programme 3.0 & Panel Discussion](https://www.youtube.com/watch?v=mznVrMbcFxk&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=40)</th>
-<td> </td>
+
+<td> 
+In this session, WWCode London team provided attendees with a comprehensive overview of the mentorship programme, outlining its origins, highlighting the anticipated benefits, and guiding individuals on the registration process as mentors or mentees. The event culminated with an engaging panel discussion, where seasoned mentors shared their insights and addressed a multitude of questions from the audience.
+</td>
+
   <td>
 
   ✪ [Eleonora Belova](https://www.linkedin.com/in/eleonora-belova-7069baa5/)
