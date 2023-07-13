@@ -140,7 +140,9 @@ This event could be particularly beneficial for both first-time mentors seeking 
 - Organize and host events for mentors and mentees
 - Help us to spread information about the programme
 - Write blog posts and more…
-  
+## Join our Slack channels
+- Stay in the loop with the latest updates on our mentorship program by following the #mentorship Slack channel. Stay informed about program news, resources, and opportunities to connect with mentors and mentees.
+- If you're interested in becoming a volunteer and making an impact, we invite you to join the #i_want_to_help Slack channel. Share your passion and discover ways to contribute to our programme through volunteer opportunities.
 ## Programmes
 - [Long Term Mentorship](https://womenwhocode.github.io/london/timeline)
 - [Ad-hoc Mentorship](https://womenwhocode.github.io/london/ad-hoc-timeline)
